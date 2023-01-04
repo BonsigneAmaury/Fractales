@@ -356,3 +356,7 @@ Rectangle                 -[#008200,dashed]-^  IFigure
 Triangle                  -[#008200,dashed]-^  IFigure
 @enduml
 ```
+
+## Contact des autres membre du groupe
+Axel Poteau : https://www.linkedin.com/in/axel-poteau-1923a7242/  
+Jonathan Isambourg  : https://www.linkedin.com/in/jonathan-isambourg/
